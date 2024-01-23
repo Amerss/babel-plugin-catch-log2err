@@ -1,16 +1,17 @@
 {
   "name": "babel-plugin-catch-log2err",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "In try/catch, if you print a captured error with console..log, babel-plugin-catch will replace it with console.error for you",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Amerss/babel-plugin-catch.git"
+    "url": "git+https://github.com/Amerss/babel-plugin-catch-log2err.git"
   },
   "keywords": [
+    "babel-plugin",
     "console",
     "log",
     "error",
@@ -19,9 +20,9 @@
   "author": "Amerss",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Amerss/babel-plugin-catch/issues"
+    "url": "https://github.com/Amerss/babel-plugin-catch-log2err/issues"
   },
-  "homepage": "https://github.com/Amerss/babel-plugin-catch#readme",
+  "homepage": "https://github.com/Amerss/babel-plugin-catch-log2err#readme",
   "devDependencies": {
     "@babel/cli": "^7.23.4"
   }

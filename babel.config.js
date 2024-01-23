@@ -1,4 +1,4 @@
-const babelPluginCatch = require('./src/index')
+const babelPluginCatch = require('./lib/index')
 
 module.exports = {
     plugins: [babelPluginCatch]
