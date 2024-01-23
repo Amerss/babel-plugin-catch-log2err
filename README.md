@@ -1,4 +1,4 @@
-# babel-plugin-catch
+# babel-plugin-catch-log2err
 在try/catch中，如果你用console.log打印捕获到的错误，babel-plugin-catch将帮你把它替换为console.error
 
 ```js

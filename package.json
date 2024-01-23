@@ -1,7 +1,7 @@
 {
-  "name": "babel-plugin-catch",
+  "name": "babel-plugin-catch-log2err",
   "version": "1.0.0",
-  "description": "Convert the 'console.log' statements that output errors within catch blocks to 'console.error'",
+  "description": "In try/catch, if you print a captured error with console..log, babel-plugin-catch will replace it with console.error for you\n",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
