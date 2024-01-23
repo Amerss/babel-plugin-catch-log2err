@@ -1,4 +1,7 @@
-src
 __test__
-node_modules
 *.log
+.idea
+.vscode
+LICENSE
+babel.config.js
+transform_start.bash
