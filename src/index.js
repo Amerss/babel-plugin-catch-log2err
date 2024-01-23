@@ -1,6 +1,6 @@
 module.exports = function ({types: t}) {
     return {
-        name: 'babel-plugin-catch-log2err',
+        name: 'catch-log2err',
         visitor: {
             CatchClause(path) {
                 const {param, body} = path.node;
