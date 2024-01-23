@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-catch-log2err",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "In try/catch, if you print a captured error with console..log, babel-plugin-catch will replace it with console.error for you",
   "main": "index.js",
   "scripts": {
