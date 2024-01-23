@@ -1,2 +1,4 @@
+src
+__test__
 node_modules
 *.log
