@@ -1,7 +1,7 @@
 {
   "name": "babel-plugin-catch-log2err",
-  "version": "1.0.5",
-  "description": "In try/catch, if you print a captured error with console..log, babel-plugin-catch will replace it with console.error for you",
+  "version": "1.0.6",
+  "description": "In try/catch or promise/catch, if you print a captured error with console.log, babel-plugin-catch will replace it with console.error for you",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
